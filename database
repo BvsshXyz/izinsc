@@ -1,3 +1,14 @@
 {
-  "key" : "BayuXD"
+  "users": [
+    {
+      "whatsappNumber": "083824505310",
+      "password": "BayuXontol"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "083824505310",
+      "token": "BayuXontol"
+    }
+  ]
 }
